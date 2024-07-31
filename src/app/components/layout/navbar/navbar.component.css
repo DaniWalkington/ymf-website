@@ -1,1 +1,4 @@
-
+.navbar {
+  padding-top: 1rem; /* Increase the top padding */
+  padding-bottom: 1rem; /* Increase the bottom padding */
+}
